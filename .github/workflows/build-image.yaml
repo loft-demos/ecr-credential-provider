@@ -1,4 +1,4 @@
-name: Build vCluster Platform
+name: Build ECR Credential Provider Image
 on:
   workflow_dispatch:
 
